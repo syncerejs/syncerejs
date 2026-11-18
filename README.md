@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building My foundational coding Portfolio and coursework project in Information Technology and Cybersecurity.<br><br>I'm Currently learning java, core networking concepts, and system defense as an IT major with a cybersecurity concentration at UNCP.<br><br>Fun fact Teach myself piano  0:<br><br>
+Building My foundational coding Portfolio and coursework project in Information Technology and Cybersecurity.<br><br>I'm Currently learning java, core networking concepts, and system defense as an IT major with a cybersecurity concentration at UNCP.<br><br>Fun fact Teaching myself piano  0:<br><br>
 
 
 ## 🌐 Socials:
